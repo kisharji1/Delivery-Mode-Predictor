@@ -1,3 +1,8 @@
+#Visit this Deployement of Delivery Predictor using the below link
+https://ml-model1-l490.onrender.com/
+
+
+
 # Delivery Mode Predictor
 
 A Machine Learning-based application for predicting the most suitable delivery mode for a shipment based on key features: region, package weight, package cost, and distance in kilometers. The model outputs recommended delivery mode among: standard, express, same day, or two days.
