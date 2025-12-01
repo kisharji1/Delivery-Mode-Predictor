@@ -18,17 +18,7 @@ Predictions are based on the following input features:
 - **Package Weight:** (in kg)
 - **Package Cost:** (in currency units)
 - **Distance:** (in kilometers)
-
----
-
-## Demo
-
-> _See the application in action_  
-![Demo Screenshot](assets/demo_screenshot.png)
-
-- Try the interactive web demo [here](https://your-demo-link.com)
-- Or use the API example below
-
+  
 ---
 
 ## Features
