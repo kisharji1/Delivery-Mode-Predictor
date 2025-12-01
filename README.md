@@ -1,4 +1,4 @@
-#Visit this Deployement of Delivery Predictor using the below link
+#Visit this Deployment of Delivery Predictor using the below link
 https://ml-model1-l490.onrender.com/
 
 
